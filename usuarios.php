@@ -29,7 +29,7 @@
                 <p>Visualize e gerencie as permissões dos usuários do sistema.</p>
             </div>
 
-            <tr><td colspan="6" align="right"><a href="cad-usuario.php" class="btn-add"><i class="fa-solid fa-plus"></i> Adicionar Usuário</a>
+            <tr><td colspan="6" align="right"><a href="cad-ususario.php" class="btn-add"><i class="fa-solid fa-plus"></i> Adicionar Usuário</a>
         </div>
 
         <div class="table-responsive">

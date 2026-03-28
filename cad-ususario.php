@@ -21,7 +21,7 @@
 
                 <div class="perfil-usuario">
                     <img src="https://t2.tudocdn.net/777122?w=1200&h=1200" alt="Avatar">
-                    <span>Carlos Eduardoo</span>
+                    <span>Carlos Eduardo</span>
                 </div>
 
         </nav>

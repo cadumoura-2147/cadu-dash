@@ -34,19 +34,8 @@
                 <label for="nome">Nome Completo</label>
                 <input type="text" id="nome" name="nome" placeholder="Nome comleto" required>
             </div>
-            <div class="form-group">
-               <label for="email">E-mail</label>
-               <input type="email" id="email" name="email" placeholder="nome@empresa.com" required>
-           </div>
             
             <div class="form-row">
-                <div class="form-group flex-1">
-                    <label for="nivel">Categoria</label>
-                    <select id="nivel" name="nivel">
-                        <option value="1">Administrador</option>
-                        <option value="2">Comprador</option>
-                    </select>
-                </div>
                 <div class="form-group flex-1">
                     <label for="nivel">Status</label>
                     <select id="nivel" name="nivel">
